@@ -34,7 +34,7 @@ Este repo reúne uma variedade de recursos para quem deseja ficar engajado no mu
 - [ThasFin](https://www.meetup.com/pt-BR/thasfin/) [comunidade de tecnologia brasileira focada em desenvolvimento web, mobile, IOT, etc...]
 - [SampaDevs](https://www.meetup.com/pt-BR/sampadevs/) [compartilhar conteúdo sobre diversas tecnologias]
 - [Muheres de produto](https://www.meetup.com/pt-BR/mulheres-de-produto/) [promove o desenvolvimento e capacitação profissional para pessoas que se identificam como mulheres]
-- [Bots Brasil](https://www.meetup.com/pt-BR/botsbr/) [https://www.meetup.com/pt-BR/botsbr/] [comunidade de pessoas interessadas em bots, interfaces conversacionais e IA]
+- [Bots Brasil](https://www.meetup.com/pt-BR/botsbr/) [comunidade de pessoas interessadas em bots, interfaces conversacionais e IA]
 - [WoMakersCode](https://www.meetup.com/pt-BR/womakerscode/) [inspirar e impulsionar meninas e mulheres que desejam ingressar ou se especializar em carreiras STEM]
 - [Cloud Girls](https://www.meetup.com/pt-BR/cloudgirls/) [inspirar e capacitar mulheres em carreiras Tech]
 - [Todas as Letras](https://www.meetup.com/pt-BR/todasasletras/) [inserir pessoas LGBTI+ em tecnologia]
