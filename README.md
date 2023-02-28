@@ -41,6 +41,8 @@ Este repo reúne uma variedade de recursos para quem deseja ficar engajado no mu
   
 ## Misc
 ##### Sites:
+- [Ocean Samsung](https://oceanbrasil.com/) [eventos e aulas online e presencial por todo o Brasil]
+- [Inova Bra](https://www.inovabra.com.br/subhomes/habitat/#eventos) [site de eventos (tech) organizados pelo hub de inovação da Bradesco]
 - [Guia de TI](https://guiadeti.com.br/) [da para encontrar QUALQUER coisa sobre TI nesse site]
 - [EstatSite](https://estatsite.com.br/) [tudo sobre dados, IA, ML e etc]
 - [Medium](https://medium.com/) [site para encontrar artigo sobre qualquer coisa que quiser]
