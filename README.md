@@ -11,6 +11,7 @@ Este repo reúne uma variedade de recursos para quem deseja ficar engajado no mu
 
  ## Comunidades:
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Instagram"/></a> 
+- [Jornada Tech](https://jornadati.com.br/sua-jornada/)
 - [Cafeína Vagas]( https://t.me/CafeinaVagas) [vagas para iniciantes na área]
 - [Universidade dos Dados](https://t.me/universidadedosdados) [comunidade da dadosfera, criado pelo André Yukio]
 - [SpaceCoders](https://t.me/sspacecoders) [comunidade para encontrar oportunidades, organizado pela Gi Bordignon]
