@@ -82,6 +82,8 @@ Este repo reúne uma variedade de recursos para quem deseja ficar engajado no mu
 | [PretaLab](https://linktr.ee/pretalab) | mulheres negras em tech |
 | [ShesTech](https://linktr.ee/shestech) | mulheres em tech |
 | [Manas Tech](https://manastech.com.br) | mulheres em tech |
+| [Manas Digitais](https://linktr.ee/manasdigitais) | mulheres em tech |
+| [Developer Girls](https://www.instagram.com/developergirls_/) | mulheres em tech |
 
 **Dados:**
 
