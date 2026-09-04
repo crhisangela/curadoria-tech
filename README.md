@@ -74,6 +74,7 @@ Este repo reúne uma variedade de recursos para quem deseja ficar engajado no mu
 
 | Comunidade | Descrição |
 |---|---|
+| [Feministech](https://discord.gg/feministech) | diversidade de gênero em tech ([github](https://github.com/feministech)) |
 | [WoMakersCode](https://linktr.ee/womakerscode) | oportunidades e formação para mulheres em tech |
 | [Vamos Juntas – Programaria](https://vamosjuntes.programaria.org/links) | rede de apoio da Programaria |
 | [Laboratoria](https://laboratoria.la/pt) | formação em tech para mulheres na América Latina |
